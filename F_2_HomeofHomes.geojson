@@ -3835,7 +3835,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#80ff80",
+        "stroke": "#400080",
         "stroke-width": 7,
         "stroke-opacity": 1,
         "Desc": "Trail "
@@ -3917,7 +3917,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#80ff80",
+        "stroke": "#400080",
         "stroke-width": 7,
         "stroke-opacity": 1,
         "Desc": "Trail"
@@ -3983,7 +3983,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#80ff80",
+        "stroke": "#400080",
         "stroke-width": 7,
         "stroke-opacity": 1,
         "Desc": "Trail"
@@ -4033,7 +4033,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#80ff80",
+        "stroke": "#400080",
         "stroke-width": 7,
         "stroke-opacity": 1,
         "Desc": "Trail"
