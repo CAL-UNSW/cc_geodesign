@@ -2385,7 +2385,7 @@
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
-        "marker-symbol": "playground"
+        "marker-symbol": "swimming"
       },
       "geometry": {
         "type": "Point",
@@ -6378,6 +6378,21 @@
               -33.4330888013928
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20380401611328,
+          -33.50704924881551
         ]
       }
     }
