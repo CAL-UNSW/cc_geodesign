@@ -1,0 +1,546 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.8,
+        "Desc": "Heavy Industry"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.26937866210938,
+              -33.39819882514977
+            ],
+            [
+              151.26319885253906,
+              -33.43344694199744
+            ],
+            [
+              151.26937866210938,
+              -33.43201437071108
+            ],
+            [
+              151.28585815429688,
+              -33.42456461884057
+            ],
+            [
+              151.29684448242188,
+              -33.41252905373343
+            ],
+            [
+              151.29684448242188,
+              -33.40163829558249
+            ],
+            [
+              151.26937866210938,
+              -33.39819882514977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
+        "Desc": "Service "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.30165100097656,
+              -33.407083845327186
+            ],
+            [
+              151.29718780517578,
+              -33.41367536990064
+            ],
+            [
+              151.2920379638672,
+              -33.42198570961329
+            ],
+            [
+              151.3033676147461,
+              -33.42370499094337
+            ],
+            [
+              151.31607055664062,
+              -33.426570384164755
+            ],
+            [
+              151.31847381591797,
+              -33.42112605618061
+            ],
+            [
+              151.32362365722656,
+              -33.415394815782506
+            ],
+            [
+              151.32568359375,
+              -33.41109613724815
+            ],
+            [
+              151.30783081054688,
+              -33.40593744216714
+            ],
+            [
+              151.30165100097656,
+              -33.407083845327186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.1,
+        "Desc": "Agriculture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.40396118164062,
+              -33.234523706639074
+            ],
+            [
+              151.37306213378906,
+              -33.22964173303423
+            ],
+            [
+              151.37821197509766,
+              -33.276296506149315
+            ],
+            [
+              151.39400482177734,
+              -33.277875154898226
+            ],
+            [
+              151.3864517211914,
+              -33.287920432606434
+            ],
+            [
+              151.39537811279297,
+              -33.289498871130256
+            ],
+            [
+              151.40533447265625,
+              -33.29035982556354
+            ],
+            [
+              151.40533447265625,
+              -33.286341965531356
+            ],
+            [
+              151.4051628112793,
+              -33.27514838003838
+            ],
+            [
+              151.40396118164062,
+              -33.234523706639074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
+        "Desc": "Service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.4183807373047,
+              -33.29035982556354
+            ],
+            [
+              151.4158058166504,
+              -33.30585555262746
+            ],
+            [
+              151.43159866333008,
+              -33.3087248296209
+            ],
+            [
+              151.43468856811523,
+              -33.301551460120024
+            ],
+            [
+              151.4322853088379,
+              -33.294520985567935
+            ],
+            [
+              151.4183807373047,
+              -33.29035982556354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.8,
+        "Desc": "Heavy Industry"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.4158058166504,
+              -33.30585555262746
+            ],
+            [
+              151.4194107055664,
+              -33.309155213026806
+            ],
+            [
+              151.41958236694336,
+              -33.31245474856284
+            ],
+            [
+              151.41563415527344,
+              -33.319770664536776
+            ],
+            [
+              151.42850875854492,
+              -33.32063132016632
+            ],
+            [
+              151.43125534057614,
+              -33.30886829099223
+            ],
+            [
+              151.4158058166504,
+              -33.30585555262746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff5353",
+        "marker-size": "medium",
+        "marker-symbol": "industrial",
+        "Desc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.42438888549805,
+          -33.31431964819615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6f6f",
+        "marker-size": "medium",
+        "marker-symbol": "logging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.39572143554688,
+          -33.272995602885224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff5959",
+        "marker-size": "medium",
+        "marker-symbol": "mobilephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.42473220825192,
+          -33.30054714130457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
+        "Desc": "Service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.49116516113278,
+              -33.233949370949006
+            ],
+            [
+              151.49065017700195,
+              -33.24457397054199
+            ],
+            [
+              151.49408340454102,
+              -33.24486110396205
+            ],
+            [
+              151.50009155273438,
+              -33.23682101167583
+            ],
+            [
+              151.49116516113278,
+              -33.233949370949006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.8,
+        "Desc": "Heavy Industry"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.43348693847656,
+              -33.266967544480615
+            ],
+            [
+              151.4527130126953,
+              -33.270125150780345
+            ],
+            [
+              151.4552879333496,
+              -33.25964719987513
+            ],
+            [
+              151.4568328857422,
+              -33.253331115501325
+            ],
+            [
+              151.44447326660156,
+              -33.250890687891115
+            ],
+            [
+              151.44207000732422,
+              -33.25361822015109
+            ],
+            [
+              151.4365768432617,
+              -33.26093906997318
+            ],
+            [
+              151.43348693847656,
+              -33.266967544480615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff5555",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+        "Desc": "Freight"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.32413864135742,
+          -33.48328568859317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4f4f",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "Desc": "Drainage system "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.46060943603516,
+          -33.291794730741415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff3737",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "Desc": "Drainage system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.44412994384766,
+          -33.32393042134677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7d7d",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "Desc": "Drainage system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.32568359375,
+          -33.43258740206331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6a6a",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "Desc": "Waste management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.36396408081055,
+          -33.3845829187719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4d4d",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "Desc": "Waste management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.42318725585938,
+          -33.328807124754434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "mobilephone",
+        "Desc": "Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.49459838867188,
+          -33.23926183214159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6a6a",
+        "marker-size": "medium",
+        "marker-symbol": "industrial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.446533203125,
+          -33.25878594252938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6c6c",
+        "marker-size": "medium",
+        "marker-symbol": "industrial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.27967834472656,
+          -33.41138272243642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7b7b",
+        "marker-size": "medium",
+        "marker-symbol": "mobilephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3092041015625,
+          -33.415394815782506
+        ]
+      }
+    }
+  ]
+}
